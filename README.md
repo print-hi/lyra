@@ -1,4 +1,4 @@
-<img src="https://github.com/print-hi/lyra/blob/main/lib/svg/LYRA-y.svg"> 
+<img src="https://github.com/print-hi/lyra-v.0.1/blob/main/lib/svg/LYRA-y.svg"> 
 
 # its kinda like keras *but worse* (＾◡＾)っ ♡
 
