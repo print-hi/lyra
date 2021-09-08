@@ -1,7 +1,3 @@
-import sys
-from pathlib import Path
-sys.path.insert(0, str(Path('__file__').resolve().parent))
-
 from lyra._base.classifier import Classifier
 from lyra._base.error import AttributeDoesNotExist
 
