@@ -76,7 +76,7 @@ This leaves us with the following minimisation task: <br/><br/>
 
 <br/>
 
-##### Cholesky factorization 
+##### Cholesky Factorization 
 
 <p align="center">
     <img src="https://latex.codecogs.com/svg.latex?%5Clarge%20%5Ccolor%7BWhite%7D%20%7B%5Cmathcal%7BR%7D%7D%5E%7B%5Ctop%7D%7B%5Cmathcal%7BR%7D%7D%20%3A%3D%20%5Cboldsymbol%7B%5Cmathrm%7BX%7D%7D%5E%7B%5Ctop%7D%5Cboldsymbol%7B%5Cmathrm%7BW%7D%7D%5Cboldsymbol%7B%5Cmathrm%7BX%7D%7D%20%5Clongrightarrow%20%5Cboldsymbol%20%5Cbeta%20%3D%20%7B%5Cmathcal%7BR%7D%7D%5E%7B-1%7D%7B%5Cmathcal%7BR%7D%7D%20%5E%7B-%5Ctop%7D%20%5Cboldsymbol%7B%5Cmathrm%7BX%7D%7D%5E%7B%5Ctop%7D%20%5Cboldsymbol%7B%5Cmathrm%7BW%7D%7D%20%5Cboldsymbol%7B%5Cmathrm%7Bz%7D%7D" />
