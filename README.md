@@ -17,9 +17,6 @@ If you still wish to install, proceed at your own risk.
 ### Dependencies
 
 - Python (>= 3.7)
-- scikit-learn (>= 0.20)
-- NumPy (>= 1.14.6)
-- SciPy (>= 1.1.0)
 - joblib (>= 0.11)
 - threadpoolctl (>= 2.0.0)
 - tqdm (>= 4.62.0)
