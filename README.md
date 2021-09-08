@@ -62,7 +62,7 @@ This leaves us with the following minimisation task: <br/><br/>
     <img src="https://latex.codecogs.com/svg.latex?%5Clarge%20%5Ccolor%7BWhite%7D%5Cboldsymbol%20%5Cbeta%20%3D%20%28%5Cboldsymbol%7B%5Cmathrm%7BX%7D%7D%5E%7B%5Ctop%7D%20%5Cboldsymbol%7B%5Cmathrm%7BW%7D%7D%20%5Cboldsymbol%7B%5Cmathrm%7BX%7D%7D%29%5E%7B-1%7D%20%5Cboldsymbol%7B%5Cmathrm%7BX%7D%7D%5E%7B%5Ctop%7D%20%5Cboldsymbol%7B%5Cmathrm%7BW%7D%7D%20%5Cboldsymbol%7B%5Cmathrm%7Bz%7D%7D" />
 </p><br/>
 
-> To speed up calculations, we can make use of the matrix decompositions. This is vital for optimisation as calculating inversions for large matricies is very costly, and instead we can aim to inverse triangle matricies and make use of the diagonalisation in the weight matrix. 
+> To speed up calculations, we can make use of matrix decompositions. This is vital for optimisation as calculating inversions for large matricies is very costly, and instead we can aim to inverse triangle matricies and make use of the diagonalisation in the weight matrix. 
 
 <br/>
 
