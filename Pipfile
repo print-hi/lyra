@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+tqdm = "*"
+tensorflow = "*"
+sklearn = "*"
+pandas = "*"
+scipy = "*"
+setuptools = "*"
+pybind11 = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.7"

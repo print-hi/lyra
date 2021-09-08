@@ -1,0 +1,10 @@
+[packages]
+tqdm = "*"
+tensorflow = "*"
+sklearn = "*"
+pandas = "*"
+scipy = "*"
+setuptools = "*"
+
+[dev-packages]
+ipykernel = "*"
