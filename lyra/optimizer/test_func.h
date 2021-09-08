@@ -1,7 +1,7 @@
 #ifndef FUNC_H
 #define FUNC_H
 
-#include "optimizer.h"
+#include "descent.h"
 #include <autodiff/reverse/var.hpp>
 
 // General Model for linear methods: AX where A = [a,b,..]^T, X = [x_0,x_1,..]
