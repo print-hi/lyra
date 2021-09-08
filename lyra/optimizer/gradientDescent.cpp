@@ -10,7 +10,7 @@
 #include <autodiff/reverse/var.hpp>
 #include <autodiff/reverse/var/eigen.hpp>
 
-#include "optimizer.h"
+#include "descent.h"
 #include "test_func.h"
 
 #define print(x) std::cout << x << std::endl
