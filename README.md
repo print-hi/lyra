@@ -7,7 +7,9 @@ Python package for machine learning models - backend implementation in pure C++.
 # Installation
 
 ```bash
-Installation has not been tested on other OS, several build functions can access library files. Proceed at your own risk.
+Installation has not been tested on other OS, several build functions can access library files. 
+
+If you still wish to install, proceed at your own risk.
 ```
 
 ### Dependencies
