@@ -9,7 +9,7 @@ Python package for machine learning models - backend implementation in pure C++.
 ```bash
 Installation has not been tested on other OS. 
 
-Optimised implementation with complete suit of models coming soon.
+Optimised implementation with complete suite of models coming soon.
 
 If you still wish to install, proceed at your own risk.
 ```
