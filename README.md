@@ -67,7 +67,7 @@ Thereafter, we need to calculate the iterative weights, given by the diagonal ma
     <img src="https://latex.codecogs.com/svg.latex?%5Cfn_cm%20%5Clarge%20%5Ccolor%7BWhite%7D%20%5Ctextit%7Bw%7D_i%20%3D%20%5Cdfrac%7B%5Cphi%20%5Ccdot%20b%5E%7B%27%27%7D%28%5Ctheta_i%29%7D%7B%5Ctextit%7Ba%7D_i%28%5Cphi%29%7D%20%5Ccdot%20%28%5Cdfrac%7Bd%20%5Ceta_i%7D%7Bd%5Cmu_i%7D%29%5E%7B-2%7D" />
 </p><br/>
 
-This leaves us with the following minimisation task: <br/><br/>
+This leaves us with the following update rule: <br/><br/>
 <p align="center">
     <img src="https://latex.codecogs.com/svg.latex?%5Clarge%20%5Ccolor%7BWhite%7D%5Cboldsymbol%20%5Cbeta%20%3D%20%28%5Cboldsymbol%7B%5Cmathrm%7BX%7D%7D%5E%7B%5Ctop%7D%20%5Cboldsymbol%7B%5Cmathrm%7BW%7D%7D%20%5Cboldsymbol%7B%5Cmathrm%7BX%7D%7D%29%5E%7B-1%7D%20%5Cboldsymbol%7B%5Cmathrm%7BX%7D%7D%5E%7B%5Ctop%7D%20%5Cboldsymbol%7B%5Cmathrm%7BW%7D%7D%20%5Cboldsymbol%7B%5Cmathrm%7Bz%7D%7D" />
 </p><br/>
