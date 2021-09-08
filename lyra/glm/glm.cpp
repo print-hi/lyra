@@ -14,14 +14,6 @@
 #include "math.h"
 #include "family.h"
 
-#define print(x) std::cout << x << std::endl
-
-int factorial_cpp(int a){
-    int f = 1;
-    for(int i = 1;i<=a; i++){f*=i;};
-    return f;
-}
-
 template<typename Family> 
 class GLM {
 public:
