@@ -35,12 +35,11 @@ See https://lyra/installation/gethelp
     
 > Haha sike, we haven't deployed anything yet
 
--------------------------------------------
+# Equations will not be visible for light-mode users as LaTex renders in white font, reload on dark-mode to see loss functions.
 
 ## Algorithm Implementation
 ### Generalised Linear Model
 
-> Equations will not be visible for light-mode users as LaTex renders in white font, reload on dark-mode to see loss functions.
 
 GLM assumes that observations come from a distribution from the exponential dispersion family/model. Distributions from the exponential dispersion family/model can be shown to have pmf/pdf of the form: &nbsp;
 <p align="center">
