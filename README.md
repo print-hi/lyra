@@ -2,7 +2,7 @@
 
 # its kinda like keras *but worse* (＾◡＾)っ ♡
 
-Python package for machine learning models - backend implementation in pure C++. GLM is the only available model at the moment; currently fits models up to twice as fast as other popular libraries such as scikit-learn and statsmodel while retaining accuracy levels (only tested on balanced, medium-sized datasets so far).
+Python package for machine learning models - backend implementation in pure C++ (well almost). GLM is the only available model at the moment; currently fits models up to twice as fast as other popular libraries such as scikit-learn and statsmodel while retaining accuracy levels (only tested on balanced, medium-sized datasets so far).
 
 # Installation
 
