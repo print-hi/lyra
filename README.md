@@ -35,7 +35,7 @@ See https://lyra/installation/gethelp
     
 > Haha sike, we haven't deployed anything yet
 
-# Equations will not be visible for light-mode users as LaTex renders in white font, reload on dark-mode to see loss functions.
+### Equations will not be visible for light-mode users as LaTex renders in white font, reload on dark-mode to see loss functions.
 
 ## Algorithm Implementation
 ### Generalised Linear Model
