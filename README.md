@@ -4,7 +4,7 @@
 
 Python package for machine learning models - backend implementation in pure C++. GLM is the only available model at the moment; currently fits models up to twice as fast as other popular libraries such as scikit-learn and statsmodel while retaining accuracy levels (only tested on balanced, medium-sized datasets so far).
 
-#### **NOTE @ DARK-MODE USERS:** [Please click here, documentation below will NOT be visible as LaTex was rendered in black!](https://github.com/print-hi/lyra-v.0.1/blob/main-light/README.md)
+#### **NOTE @ DARK-MODE USERS:** [Please click here, documentation below will NOT be visible as LaTex was rendered in black!](https://github.com/print-hi/lyra-v.0.1/blob/main/README.md)
 
 # Installation
 
