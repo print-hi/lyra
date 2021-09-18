@@ -37,7 +37,7 @@ See https://lyra/installation/gethelp
     
 > Haha sike, we haven't deployed anything yet
 
-## Algorithm Implementation
+## Algorithm Implementation 
 ### Generalised Linear Model
 
 GLM assumes that observations come from a distribution from the exponential dispersion family/model. Distributions from the exponential dispersion family/model can be shown to have pmf/pdf of the form: &nbsp;
@@ -45,7 +45,7 @@ GLM assumes that observations come from a distribution from the exponential disp
 <img src="https://latex.codecogs.com/svg.latex?%5Clarge%20%5Ctextit%7Bf%7D%28y_i%3B%20%5Ctheta_i%29%20%3D%20%5Cexp%20%5Cleft%5B%20%5Cdfrac%7By_i%20%5Ctheta_i%20-%20%5Ctextit%7Bb%7D%28%5Ctheta_i%29%7D%7B%5Ctextit%7Ba%7D_i%28%5Cphi%29%7D%20&plus;%20c%28y_i%3B%20%5Cphi%29%20%5Cright%5D" />
 </p> 
 
-> **Dark-Mode Users:** [Please click here!](https://github.com/print-hi/lyra-v.0.1/blob/main-dark/README.md)
+> <a name="latex"> **Dark-Mode Users:** [Please click here!](https://github.com/print-hi/lyra-v.0.1/blob/main-dark/README.md#latex) </a>
 
 <br />
 To build the spread around the linear model, we can then make use of various differentiable transformations (injective) using the following relationship: <br/><br/>
