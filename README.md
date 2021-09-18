@@ -39,7 +39,7 @@ See https://lyra/installation/gethelp
 ## Algorithm Implementation
 ### Generalised Linear Model
 
-#### **NOTE**: Equations below will NOT be visible for light-mode users as LaTex was rendered in white, please reload page on dark-mode.
+#### **NOTE**: [Equations below will NOT be visible for DARK-mode users as LaTex was rendered in white, please click this.](https://github.com/print-hi/lyra-v.0.1/blob/main/README.md)
 
 GLM assumes that observations come from a distribution from the exponential dispersion family/model. Distributions from the exponential dispersion family/model can be shown to have pmf/pdf of the form: &nbsp;
 <p align="center">
