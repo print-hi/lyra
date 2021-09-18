@@ -37,7 +37,7 @@ See https://lyra/installation/gethelp
     
 > Haha sike, we haven't deployed anything yet
 
-#### **NOTE @ DARK-MODE USERS:** [Please click here, documentation below will NOT be visible as LaTex was rendered in black!](https://github.com/print-hi/lyra-v.0.1/blob/main-light/README.md)
+#### **NOTE @ DARK-MODE USERS:** [Please click here, documentation below will NOT be visible as LaTex was rendered in black!](https://github.com/print-hi/lyra-v.0.1/blob/main/README.md)
 
 ## Algorithm Implementation
 ### Generalised Linear Model
