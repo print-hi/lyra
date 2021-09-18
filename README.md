@@ -4,6 +4,8 @@
 
 Python package for machine learning models - backend implementation in pure C++. GLM is the only available model at the moment; currently fits models up to twice as fast as other popular libraries such as scikit-learn and statsmodel while retaining accuracy levels (only tested on balanced, medium-sized datasets so far).
 
+#### **NOTE @ DARK-MODE USERS:** [Please click here, documentation below will NOT be visible as LaTex was rendered in black!](https://github.com/print-hi/lyra-v.0.1/blob/main-light/README.md)
+
 # Installation
 
 ```bash
@@ -35,11 +37,10 @@ See https://lyra/installation/gethelp
     
 > Haha sike, we haven't deployed anything yet
 
+#### **NOTE @ DARK-MODE USERS:** [Please click here, documentation below will NOT be visible as LaTex was rendered in black!](https://github.com/print-hi/lyra-v.0.1/blob/main-light/README.md)
 
 ## Algorithm Implementation
 ### Generalised Linear Model
-
-#### **NOTE**: [Equations below will NOT be visible for DARK-mode users as LaTex was rendered in white, please click this.](https://github.com/print-hi/lyra-v.0.1/blob/main/README.md)
 
 GLM assumes that observations come from a distribution from the exponential dispersion family/model. Distributions from the exponential dispersion family/model can be shown to have pmf/pdf of the form: &nbsp;
 <p align="center">
