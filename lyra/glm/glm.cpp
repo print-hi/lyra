@@ -204,7 +204,7 @@ struct Time {
 
 int main() {
 
-    Eigen::MatrixXd X = openData("poi++.csv");
+    Eigen::MatrixXd X = openData("data/poi++.csv");
     Eigen::VectorXd y;
 
     split_Xy(X, y, 0);
