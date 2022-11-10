@@ -4,8 +4,6 @@
 
 Python package for machine learning models - backend implementation in pure C++. GLM is the only available model at the moment; currently fits models up to twice as fast as other popular libraries such as scikit-learn and statsmodel while retaining accuracy levels (only tested on balanced, medium-sized datasets so far).
 
-#### **NOTE @ LIGHT-MODE USERS:** [Please click here, documentation below renders LaTeX in white!](https://github.com/print-hi/lyra-v.0.1/blob/main/README.md)
-
 # Installation
 
 ```bash
@@ -45,7 +43,7 @@ GLM assumes that observations come from a distribution from the exponential disp
 <img src="https://github.com/print-hi/lyra-v.0.1/blob/main/lib/svg/dark-1.svg" />
 </p> 
 
-> **Light-Mode Users:** [Please click here!](https://github.com/print-hi/lyra-v.0.1/blob/main/README.md#user-installation)
+> **Light-Mode Users:** [Please click here if rendered in white text!](https://github.com/print-hi/lyra-v.0.1/blob/main/README.md#user-installation)
 
 <br />
 To build the spread around the linear model, we can then make use of various differentiable transformations (injective) using the following relationship: <br/><br/>
